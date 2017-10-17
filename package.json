@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Yassine Bel Haj Amor",
+    "email": "yassine.belhajamor@outlook.fr"
+      },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Small Module to validate Javascript variable (Objects) according to a set of predefined rules",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "mocha": "^3.3.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "validator",
+    "validation",
+    "form",
+    "validation",
+    "type checking",
+    "array type"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "ybha-validator",
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.0.0"
+}
